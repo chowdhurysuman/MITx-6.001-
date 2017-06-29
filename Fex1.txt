@@ -45,3 +45,71 @@ Finger Exercise:2, correct choice is denoted by (>>>)
 >>>True
 ...False
 --------------------------------------------------------------------------------------------------------------------------------
+ESTIMATED TIME TO COMPLETE: 5 minutes
+Finger Exercise:3, correct choice is denoted by (>>>)
+
+1.) True or False? A stored program computer is designed to compute precisely one computation, such as a square root, or the trajectory of a missile.
+
+...True
+>>>Falsecorrect
+
+2.) True or False? A fixed program computer is designed to run any computation, by interpreting a sequence of program instructions that are read into it.
+
+...True
+>>>Falsecorrect
+
+3.) A program counter
+
+...counts the number of primitive operations executed by the program.
+...counts the number of primitive operations comprising a complex operation.
+>>>points the computer to the next instruction to execute in the program. correct
+...remembers how many times a program has been executed.
+
+4.) What does it mean when we say that "the computer walks through the sequence executing some computation"?
+
+The computer tests each instruction to ensure it will not harm the circuitry.
+The computer executes the instructions in strict, linear sequence, just like walking in a straight line.
+The computer executes the instructions mostly in a linear sequence, except sometimes it jumps to a different place in the sequence. correct
+The computer slowly executes instructions so that we can follow its progress, rather than running a program at full speed.
+
+5.)True or False? In order to compute everything that is computable, every computer must be able to handle the sixteen most primitive operations.
+
+...True
+>>>Falsecorrect
+---------------------------------------------------------------------------------------------------------------------------------
+ESTIMATED TIME TO COMPLETE: 2 minutes
+Finger Exercise:4, correct choice is denoted by (>>>)
+
+Choose the term described by each of the following definitions.
+Definitions:
+
+>>>Determines whether a string is legal: 
+Syntax.
+>>>Determines whether a string has meaning: 
+Static Semantics.
+>>>Assigns a meaning to a legal sentence:
+Semantics
+--------------------------------------------------------------------------------------------------------------------------------
+ESTIMATED TIME TO COMPLETE: 3 minutes
+Finger Exercise:5, correct choice is denoted by (>>>)
+
+Note: The Python 'None' keyword
+In Python, the keyword None is frequently used to represent the absence of a value.
+None is the only value in Python of type NoneType.
+Q.) For each of the following expressions, indicate the type of the expression.:
+
+3.14
+>>>float 
+
+-34
+>>>int
+
+True
+>>>Boolean
+
+None
+>>>NoneType
+
+3.0
+>>>float
+--------------------------------------------------------------------------------------------------------------------------------
